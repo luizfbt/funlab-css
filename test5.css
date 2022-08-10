@@ -1,0 +1,16 @@
+.box {
+    width: 350px;
+    height: 150px;
+    margin-top: -40px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    margin-left: 4em;
+    border: 5px solid rebeccapurple;
+}
+
+.container {
+    border: 5px solid blue;
+    width: 450px;
+    height: 250px;
+    margin: 40px;
+}

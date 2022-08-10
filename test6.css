@@ -1,0 +1,18 @@
+.container {
+    border-top: 5px dotted green;
+    border-right: 1px solid black;
+    border-bottom: 20px double rgb(23, 45, 145);
+    width: 350px;
+    height: 75px;
+    margin: 40px;
+}
+
+.box {
+    border: 1px solid #333333;
+    border-top-style: dotted;
+    border-right-width: 20px;
+    border-bottom-color: hotpink;
+    height: 50px;
+    background-color: lightgrey;
+    margin: 10px;
+}
